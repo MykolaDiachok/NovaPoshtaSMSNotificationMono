@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493594475720",
+    "firebase_url": "https://novaposhtasmsnotification.firebaseio.com",
+    "project_id": "novaposhtasmsnotification",
+    "storage_bucket": "novaposhtasmsnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493594475720:android:63b7e7dd8ad79060",
+        "android_client_info": {
+          "package_name": "com.diachok.NovaPoshtaSMSNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493594475720-igaal8i5a5orrelvje5ae603gebn1hrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diachok.NovaPoshtaSMSNotification",
+            "certificate_hash": "d36ba8064418b5ba260a9b5a9c40558e2877122e"
+          }
+        },
+        {
+          "client_id": "493594475720-shq5v5viugmbtc9a52dg513uli5d4jhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4p2wpjh_F12bmuz44-eCSm_YF2tNJmQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493594475720-shq5v5viugmbtc9a52dg513uli5d4jhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

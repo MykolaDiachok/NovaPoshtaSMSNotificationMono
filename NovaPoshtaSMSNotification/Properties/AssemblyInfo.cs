@@ -28,3 +28,4 @@ using Android.App;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: MetaData("net.hockeyapp.android.appIdentifier", Value = "92b286817c9e445186a180e51625b6cc")]

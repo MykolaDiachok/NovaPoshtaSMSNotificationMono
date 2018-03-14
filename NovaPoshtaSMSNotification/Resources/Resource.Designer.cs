@@ -26,10 +26,171 @@ namespace NovaPoshtaSMSNotification
 		
 		public static void UpdateIdValues()
 		{
+			global::HockeyApp.Resource.Color.hockeyapp_background_header = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_background_header;
+			global::HockeyApp.Resource.Color.hockeyapp_background_light = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_background_light;
+			global::HockeyApp.Resource.Color.hockeyapp_background_white = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_background_white;
+			global::HockeyApp.Resource.Color.hockeyapp_button_background = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_button_background;
+			global::HockeyApp.Resource.Color.hockeyapp_button_background_pressed = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_button_background_pressed;
+			global::HockeyApp.Resource.Color.hockeyapp_button_background_selected = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_button_background_selected;
+			global::HockeyApp.Resource.Color.hockeyapp_text_black = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_text_black;
+			global::HockeyApp.Resource.Color.hockeyapp_text_light = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_text_light;
+			global::HockeyApp.Resource.Color.hockeyapp_text_normal = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_text_normal;
+			global::HockeyApp.Resource.Color.hockeyapp_text_white = global::NovaPoshtaSMSNotification.Resource.Color.hockeyapp_text_white;
+			global::HockeyApp.Resource.Drawable.hockeyapp_btn_background = global::NovaPoshtaSMSNotification.Resource.Drawable.hockeyapp_btn_background;
+			global::HockeyApp.Resource.Id.button_add_response = global::NovaPoshtaSMSNotification.Resource.Id.button_add_response;
+			global::HockeyApp.Resource.Id.button_attachment = global::NovaPoshtaSMSNotification.Resource.Id.button_attachment;
+			global::HockeyApp.Resource.Id.button_login = global::NovaPoshtaSMSNotification.Resource.Id.button_login;
+			global::HockeyApp.Resource.Id.button_refresh = global::NovaPoshtaSMSNotification.Resource.Id.button_refresh;
+			global::HockeyApp.Resource.Id.button_send = global::NovaPoshtaSMSNotification.Resource.Id.button_send;
+			global::HockeyApp.Resource.Id.button_update = global::NovaPoshtaSMSNotification.Resource.Id.button_update;
+			global::HockeyApp.Resource.Id.input_email = global::NovaPoshtaSMSNotification.Resource.Id.input_email;
+			global::HockeyApp.Resource.Id.input_message = global::NovaPoshtaSMSNotification.Resource.Id.input_message;
+			global::HockeyApp.Resource.Id.input_name = global::NovaPoshtaSMSNotification.Resource.Id.input_name;
+			global::HockeyApp.Resource.Id.input_password = global::NovaPoshtaSMSNotification.Resource.Id.input_password;
+			global::HockeyApp.Resource.Id.input_subject = global::NovaPoshtaSMSNotification.Resource.Id.input_subject;
+			global::HockeyApp.Resource.Id.label_author = global::NovaPoshtaSMSNotification.Resource.Id.label_author;
+			global::HockeyApp.Resource.Id.label_date = global::NovaPoshtaSMSNotification.Resource.Id.label_date;
+			global::HockeyApp.Resource.Id.label_last_updated = global::NovaPoshtaSMSNotification.Resource.Id.label_last_updated;
+			global::HockeyApp.Resource.Id.label_message = global::NovaPoshtaSMSNotification.Resource.Id.label_message;
+			global::HockeyApp.Resource.Id.label_text = global::NovaPoshtaSMSNotification.Resource.Id.label_text;
+			global::HockeyApp.Resource.Id.label_title = global::NovaPoshtaSMSNotification.Resource.Id.label_title;
+			global::HockeyApp.Resource.Id.label_version = global::NovaPoshtaSMSNotification.Resource.Id.label_version;
+			global::HockeyApp.Resource.Id.list_attachments = global::NovaPoshtaSMSNotification.Resource.Id.list_attachments;
+			global::HockeyApp.Resource.Id.list_feedback_messages = global::NovaPoshtaSMSNotification.Resource.Id.list_feedback_messages;
+			global::HockeyApp.Resource.Id.text_headline = global::NovaPoshtaSMSNotification.Resource.Id.text_headline;
+			global::HockeyApp.Resource.Id.view_header = global::NovaPoshtaSMSNotification.Resource.Id.view_header;
+			global::HockeyApp.Resource.Id.web_update_details = global::NovaPoshtaSMSNotification.Resource.Id.web_update_details;
+			global::HockeyApp.Resource.Id.wrapper_attachments = global::NovaPoshtaSMSNotification.Resource.Id.wrapper_attachments;
+			global::HockeyApp.Resource.Id.wrapper_feedback = global::NovaPoshtaSMSNotification.Resource.Id.wrapper_feedback;
+			global::HockeyApp.Resource.Id.wrapper_feedback_scroll = global::NovaPoshtaSMSNotification.Resource.Id.wrapper_feedback_scroll;
+			global::HockeyApp.Resource.Id.wrapper_messages = global::NovaPoshtaSMSNotification.Resource.Id.wrapper_messages;
+			global::HockeyApp.Resource.Id.wrapper_messages_buttons = global::NovaPoshtaSMSNotification.Resource.Id.wrapper_messages_buttons;
+			global::HockeyApp.Resource.Layout.hockeyapp_activity_expiry_info = global::NovaPoshtaSMSNotification.Resource.Layout.hockeyapp_activity_expiry_info;
+			global::HockeyApp.Resource.Layout.hockeyapp_activity_feedback = global::NovaPoshtaSMSNotification.Resource.Layout.hockeyapp_activity_feedback;
+			global::HockeyApp.Resource.Layout.hockeyapp_activity_login = global::NovaPoshtaSMSNotification.Resource.Layout.hockeyapp_activity_login;
+			global::HockeyApp.Resource.Layout.hockeyapp_fragment_update = global::NovaPoshtaSMSNotification.Resource.Layout.hockeyapp_fragment_update;
+			global::HockeyApp.Resource.Layout.hockeyapp_view_feedback_message = global::NovaPoshtaSMSNotification.Resource.Layout.hockeyapp_view_feedback_message;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_app_name_fallback = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_app_name_fallback;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_message;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_negative_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_negative_button;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_neutral_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_neutral_button;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_positive_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_positive_button;
+			global::HockeyApp.Resource.String.hockeyapp_crash_dialog_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_crash_dialog_title;
+			global::HockeyApp.Resource.String.hockeyapp_dialog_error_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_dialog_error_message;
+			global::HockeyApp.Resource.String.hockeyapp_dialog_error_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_dialog_error_title;
+			global::HockeyApp.Resource.String.hockeyapp_dialog_positive_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_dialog_positive_button;
+			global::HockeyApp.Resource.String.hockeyapp_download_failed_dialog_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_download_failed_dialog_message;
+			global::HockeyApp.Resource.String.hockeyapp_download_failed_dialog_negative_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_download_failed_dialog_negative_button;
+			global::HockeyApp.Resource.String.hockeyapp_download_failed_dialog_positive_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_download_failed_dialog_positive_button;
+			global::HockeyApp.Resource.String.hockeyapp_download_failed_dialog_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_download_failed_dialog_title;
+			global::HockeyApp.Resource.String.hockeyapp_error_install_form_unknown_sources_disabled = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_error_install_form_unknown_sources_disabled;
+			global::HockeyApp.Resource.String.hockeyapp_error_no_external_storage_permission = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_error_no_external_storage_permission;
+			global::HockeyApp.Resource.String.hockeyapp_error_no_network_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_error_no_network_message;
+			global::HockeyApp.Resource.String.hockeyapp_expiry_info_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_expiry_info_text;
+			global::HockeyApp.Resource.String.hockeyapp_expiry_info_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_expiry_info_title;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attach_file = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attach_file;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attach_picture = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attach_picture;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_added = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_added;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_button_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_button_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_loading = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_loading;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_remove_description = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_remove_description;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_attachment_removed = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_attachment_removed;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_email_hint = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_email_hint;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_email_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_email_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_fetching_feedback_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_fetching_feedback_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_last_updated_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_last_updated_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_max_attachments_allowed = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_max_attachments_allowed;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_message_hint = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_message_hint;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_message_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_message_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_name_hint = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_name_hint;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_name_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_name_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_new_answer_notification_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_new_answer_notification_message;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_notification_channel = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_notification_channel;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_notification_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_notification_title;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_refresh_button_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_refresh_button_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_response_button_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_response_button_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_screenshot_fail = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_screenshot_fail;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_screenshot_notification_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_screenshot_notification_message;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_select_file = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_select_file;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_select_picture = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_select_picture;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_send_button_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_send_button_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_send_generic_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_send_generic_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_send_network_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_send_network_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_sending_feedback_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_sending_feedback_text;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_sent_toast = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_sent_toast;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_subject_hint = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_subject_hint;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_subject_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_subject_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_title;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_validate_email_empty = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_validate_email_empty;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_validate_email_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_validate_email_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_validate_name_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_validate_name_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_validate_subject_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_validate_subject_error;
+			global::HockeyApp.Resource.String.hockeyapp_feedback_validate_text_error = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_feedback_validate_text_error;
+			global::HockeyApp.Resource.String.hockeyapp_login_email_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_email_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_login_headline_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_headline_text;
+			global::HockeyApp.Resource.String.hockeyapp_login_headline_text_email_only = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_headline_text_email_only;
+			global::HockeyApp.Resource.String.hockeyapp_login_login_button_text = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_login_button_text;
+			global::HockeyApp.Resource.String.hockeyapp_login_missing_credentials_toast = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_missing_credentials_toast;
+			global::HockeyApp.Resource.String.hockeyapp_login_password_hint_required = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_login_password_hint_required;
+			global::HockeyApp.Resource.String.hockeyapp_paint_dialog_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_dialog_message;
+			global::HockeyApp.Resource.String.hockeyapp_paint_dialog_negative_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_dialog_negative_button;
+			global::HockeyApp.Resource.String.hockeyapp_paint_dialog_neutral_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_dialog_neutral_button;
+			global::HockeyApp.Resource.String.hockeyapp_paint_dialog_positive_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_dialog_positive_button;
+			global::HockeyApp.Resource.String.hockeyapp_paint_indicator_toast = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_indicator_toast;
+			global::HockeyApp.Resource.String.hockeyapp_paint_menu_clear = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_menu_clear;
+			global::HockeyApp.Resource.String.hockeyapp_paint_menu_save = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_menu_save;
+			global::HockeyApp.Resource.String.hockeyapp_paint_menu_undo = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_paint_menu_undo;
+			global::HockeyApp.Resource.String.hockeyapp_update_already_installed = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_already_installed;
+			global::HockeyApp.Resource.String.hockeyapp_update_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_button;
+			global::HockeyApp.Resource.String.hockeyapp_update_dialog_message = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_dialog_message;
+			global::HockeyApp.Resource.String.hockeyapp_update_dialog_negative_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_dialog_negative_button;
+			global::HockeyApp.Resource.String.hockeyapp_update_dialog_positive_button = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_dialog_positive_button;
+			global::HockeyApp.Resource.String.hockeyapp_update_dialog_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_dialog_title;
+			global::HockeyApp.Resource.String.hockeyapp_update_loading = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_loading;
+			global::HockeyApp.Resource.String.hockeyapp_update_mandatory_toast = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_mandatory_toast;
+			global::HockeyApp.Resource.String.hockeyapp_update_newest_version = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_newest_version;
+			global::HockeyApp.Resource.String.hockeyapp_update_no_info = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_no_info;
+			global::HockeyApp.Resource.String.hockeyapp_update_restore = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_restore;
+			global::HockeyApp.Resource.String.hockeyapp_update_title = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_title;
+			global::HockeyApp.Resource.String.hockeyapp_update_unknown_size = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_unknown_size;
+			global::HockeyApp.Resource.String.hockeyapp_update_version = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_version;
+			global::HockeyApp.Resource.String.hockeyapp_update_version_details_label = global::NovaPoshtaSMSNotification.Resource.String.hockeyapp_update_version_details_label;
+			global::HockeyApp.Resource.String.library_name = global::NovaPoshtaSMSNotification.Resource.String.library_name;
+			global::HockeyApp.Resource.Style.HockeyApp_ButtonStyle = global::NovaPoshtaSMSNotification.Resource.Style.HockeyApp_ButtonStyle;
+			global::HockeyApp.Resource.Style.HockeyApp_EditTextStyle = global::NovaPoshtaSMSNotification.Resource.Style.HockeyApp_EditTextStyle;
+			global::HockeyApp.Resource.Style.HockeyApp_SingleLineInputStyle = global::NovaPoshtaSMSNotification.Resource.Style.HockeyApp_SingleLineInputStyle;
 		}
 		
 		public partial class Attribute
 		{
+			
+			// aapt resource value: 0x7f010007
+			public const int font = 2130771975;
+			
+			// aapt resource value: 0x7f010000
+			public const int fontProviderAuthority = 2130771968;
+			
+			// aapt resource value: 0x7f010003
+			public const int fontProviderCerts = 2130771971;
+			
+			// aapt resource value: 0x7f010004
+			public const int fontProviderFetchStrategy = 2130771972;
+			
+			// aapt resource value: 0x7f010005
+			public const int fontProviderFetchTimeout = 2130771973;
+			
+			// aapt resource value: 0x7f010001
+			public const int fontProviderPackage = 2130771969;
+			
+			// aapt resource value: 0x7f010002
+			public const int fontProviderQuery = 2130771970;
+			
+			// aapt resource value: 0x7f010006
+			public const int fontStyle = 2130771974;
+			
+			// aapt resource value: 0x7f010008
+			public const int fontWeight = 2130771976;
 			
 			static Attribute()
 			{
@@ -41,11 +202,491 @@ namespace NovaPoshtaSMSNotification
 			}
 		}
 		
-		public partial class Layout
+		public partial class Boolean
+		{
+			
+			// aapt resource value: 0x7f090000
+			public const int abc_action_bar_embed_tabs = 2131296256;
+			
+			static Boolean()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Boolean()
+			{
+			}
+		}
+		
+		public partial class Color
+		{
+			
+			// aapt resource value: 0x7f080007
+			public const int hockeyapp_background_header = 2131230727;
+			
+			// aapt resource value: 0x7f080008
+			public const int hockeyapp_background_light = 2131230728;
+			
+			// aapt resource value: 0x7f080009
+			public const int hockeyapp_background_white = 2131230729;
+			
+			// aapt resource value: 0x7f08000a
+			public const int hockeyapp_button_background = 2131230730;
+			
+			// aapt resource value: 0x7f08000b
+			public const int hockeyapp_button_background_pressed = 2131230731;
+			
+			// aapt resource value: 0x7f08000c
+			public const int hockeyapp_button_background_selected = 2131230732;
+			
+			// aapt resource value: 0x7f08000d
+			public const int hockeyapp_text_black = 2131230733;
+			
+			// aapt resource value: 0x7f08000e
+			public const int hockeyapp_text_light = 2131230734;
+			
+			// aapt resource value: 0x7f08000f
+			public const int hockeyapp_text_normal = 2131230735;
+			
+			// aapt resource value: 0x7f080010
+			public const int hockeyapp_text_white = 2131230736;
+			
+			// aapt resource value: 0x7f080003
+			public const int notification_action_color_filter = 2131230723;
+			
+			// aapt resource value: 0x7f080004
+			public const int notification_icon_bg_color = 2131230724;
+			
+			// aapt resource value: 0x7f080000
+			public const int notification_material_background_media_default_color = 2131230720;
+			
+			// aapt resource value: 0x7f080001
+			public const int primary_text_default_material_dark = 2131230721;
+			
+			// aapt resource value: 0x7f080005
+			public const int ripple_material_light = 2131230725;
+			
+			// aapt resource value: 0x7f080002
+			public const int secondary_text_default_material_dark = 2131230722;
+			
+			// aapt resource value: 0x7f080006
+			public const int secondary_text_default_material_light = 2131230726;
+			
+			static Color()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Color()
+			{
+			}
+		}
+		
+		public partial class Dimension
+		{
+			
+			// aapt resource value: 0x7f0a0004
+			public const int compat_button_inset_horizontal_material = 2131361796;
+			
+			// aapt resource value: 0x7f0a0005
+			public const int compat_button_inset_vertical_material = 2131361797;
+			
+			// aapt resource value: 0x7f0a0006
+			public const int compat_button_padding_horizontal_material = 2131361798;
+			
+			// aapt resource value: 0x7f0a0007
+			public const int compat_button_padding_vertical_material = 2131361799;
+			
+			// aapt resource value: 0x7f0a0008
+			public const int compat_control_corner_material = 2131361800;
+			
+			// aapt resource value: 0x7f0a0009
+			public const int notification_action_icon_size = 2131361801;
+			
+			// aapt resource value: 0x7f0a000a
+			public const int notification_action_text_size = 2131361802;
+			
+			// aapt resource value: 0x7f0a000b
+			public const int notification_big_circle_margin = 2131361803;
+			
+			// aapt resource value: 0x7f0a0001
+			public const int notification_content_margin_start = 2131361793;
+			
+			// aapt resource value: 0x7f0a000c
+			public const int notification_large_icon_height = 2131361804;
+			
+			// aapt resource value: 0x7f0a000d
+			public const int notification_large_icon_width = 2131361805;
+			
+			// aapt resource value: 0x7f0a0002
+			public const int notification_main_column_padding_top = 2131361794;
+			
+			// aapt resource value: 0x7f0a0003
+			public const int notification_media_narrow_margin = 2131361795;
+			
+			// aapt resource value: 0x7f0a000e
+			public const int notification_right_icon_size = 2131361806;
+			
+			// aapt resource value: 0x7f0a0000
+			public const int notification_right_side_padding_top = 2131361792;
+			
+			// aapt resource value: 0x7f0a000f
+			public const int notification_small_icon_background_padding = 2131361807;
+			
+			// aapt resource value: 0x7f0a0010
+			public const int notification_small_icon_size_as_large = 2131361808;
+			
+			// aapt resource value: 0x7f0a0011
+			public const int notification_subtext_size = 2131361809;
+			
+			// aapt resource value: 0x7f0a0012
+			public const int notification_top_pad = 2131361810;
+			
+			// aapt resource value: 0x7f0a0013
+			public const int notification_top_pad_large_text = 2131361811;
+			
+			static Dimension()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Dimension()
+			{
+			}
+		}
+		
+		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			public const int hockeyapp_btn_background = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int notification_action_background = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int notification_bg = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int notification_bg_low = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int notification_bg_low_normal = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int notification_bg_low_pressed = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int notification_bg_normal = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int notification_bg_normal_pressed = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int notification_icon_background = 2130837512;
+			
+			// aapt resource value: 0x7f02000b
+			public const int notification_template_icon_bg = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int notification_template_icon_low_bg = 2130837516;
+			
+			// aapt resource value: 0x7f020009
+			public const int notification_tile_bg = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int notify_panel_notification_icon_bg = 2130837514;
+			
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f06002b
+			public const int action0 = 2131099691;
+			
+			// aapt resource value: 0x7f060028
+			public const int action_container = 2131099688;
+			
+			// aapt resource value: 0x7f06002f
+			public const int action_divider = 2131099695;
+			
+			// aapt resource value: 0x7f060029
+			public const int action_image = 2131099689;
+			
+			// aapt resource value: 0x7f06002a
+			public const int action_text = 2131099690;
+			
+			// aapt resource value: 0x7f060039
+			public const int actions = 2131099705;
+			
+			// aapt resource value: 0x7f060006
+			public const int async = 2131099654;
+			
+			// aapt resource value: 0x7f060007
+			public const int blocking = 2131099655;
+			
+			// aapt resource value: 0x7f060018
+			public const int button_add_response = 2131099672;
+			
+			// aapt resource value: 0x7f060013
+			public const int button_attachment = 2131099667;
+			
+			// aapt resource value: 0x7f06001d
+			public const int button_login = 2131099677;
+			
+			// aapt resource value: 0x7f060019
+			public const int button_refresh = 2131099673;
+			
+			// aapt resource value: 0x7f060014
+			public const int button_send = 2131099668;
+			
+			// aapt resource value: 0x7f060021
+			public const int button_update = 2131099681;
+			
+			// aapt resource value: 0x7f06002c
+			public const int cancel_action = 2131099692;
+			
+			// aapt resource value: 0x7f060034
+			public const int chronometer = 2131099700;
+			
+			// aapt resource value: 0x7f060000
+			public const int crash_reporting_present = 2131099648;
+			
+			// aapt resource value: 0x7f06003b
+			public const int end_padder = 2131099707;
+			
+			// aapt resource value: 0x7f060008
+			public const int forever = 2131099656;
+			
+			// aapt resource value: 0x7f060036
+			public const int icon = 2131099702;
+			
+			// aapt resource value: 0x7f06003a
+			public const int icon_group = 2131099706;
+			
+			// aapt resource value: 0x7f060035
+			public const int info = 2131099701;
+			
+			// aapt resource value: 0x7f06000f
+			public const int input_email = 2131099663;
+			
+			// aapt resource value: 0x7f060011
+			public const int input_message = 2131099665;
+			
+			// aapt resource value: 0x7f06000e
+			public const int input_name = 2131099662;
+			
+			// aapt resource value: 0x7f06001c
+			public const int input_password = 2131099676;
+			
+			// aapt resource value: 0x7f060010
+			public const int input_subject = 2131099664;
+			
+			// aapt resource value: 0x7f060009
+			public const int italic = 2131099657;
+			
+			// aapt resource value: 0x7f060023
+			public const int label_author = 2131099683;
+			
+			// aapt resource value: 0x7f060024
+			public const int label_date = 2131099684;
+			
+			// aapt resource value: 0x7f060016
+			public const int label_last_updated = 2131099670;
+			
+			// aapt resource value: 0x7f06000b
+			public const int label_message = 2131099659;
+			
+			// aapt resource value: 0x7f060025
+			public const int label_text = 2131099685;
+			
+			// aapt resource value: 0x7f06001f
+			public const int label_title = 2131099679;
+			
+			// aapt resource value: 0x7f060020
+			public const int label_version = 2131099680;
+			
+			// aapt resource value: 0x7f060001
+			public const int line1 = 2131099649;
+			
+			// aapt resource value: 0x7f060002
+			public const int line3 = 2131099650;
+			
+			// aapt resource value: 0x7f060027
+			public const int listView1 = 2131099687;
+			
+			// aapt resource value: 0x7f060026
+			public const int list_attachments = 2131099686;
+			
+			// aapt resource value: 0x7f06001a
+			public const int list_feedback_messages = 2131099674;
+			
+			// aapt resource value: 0x7f06002e
+			public const int media_actions = 2131099694;
+			
+			// aapt resource value: 0x7f06000a
+			public const int normal = 2131099658;
+			
+			// aapt resource value: 0x7f060038
+			public const int notification_background = 2131099704;
+			
+			// aapt resource value: 0x7f060031
+			public const int notification_main_column = 2131099697;
+			
+			// aapt resource value: 0x7f060030
+			public const int notification_main_column_container = 2131099696;
+			
+			// aapt resource value: 0x7f060037
+			public const int right_icon = 2131099703;
+			
+			// aapt resource value: 0x7f060032
+			public const int right_side = 2131099698;
+			
+			// aapt resource value: 0x7f06002d
+			public const int status_bar_latest_event_content = 2131099693;
+			
+			// aapt resource value: 0x7f060003
+			public const int text = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int text2 = 2131099652;
+			
+			// aapt resource value: 0x7f06001b
+			public const int text_headline = 2131099675;
+			
+			// aapt resource value: 0x7f060033
+			public const int time = 2131099699;
+			
+			// aapt resource value: 0x7f060005
+			public const int title = 2131099653;
+			
+			// aapt resource value: 0x7f06001e
+			public const int view_header = 2131099678;
+			
+			// aapt resource value: 0x7f060022
+			public const int web_update_details = 2131099682;
+			
+			// aapt resource value: 0x7f060012
+			public const int wrapper_attachments = 2131099666;
+			
+			// aapt resource value: 0x7f06000d
+			public const int wrapper_feedback = 2131099661;
+			
+			// aapt resource value: 0x7f06000c
+			public const int wrapper_feedback_scroll = 2131099660;
+			
+			// aapt resource value: 0x7f060015
+			public const int wrapper_messages = 2131099669;
+			
+			// aapt resource value: 0x7f060017
+			public const int wrapper_messages_buttons = 2131099671;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
+		public partial class Integer
+		{
+			
+			// aapt resource value: 0x7f050001
+			public const int cancel_button_image_alpha = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int google_play_services_version = 2131034112;
+			
+			// aapt resource value: 0x7f050002
+			public const int status_bar_notification_info_maxnum = 2131034114;
+			
+			static Integer()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Integer()
+			{
+			}
+		}
+		
+		public partial class Layout
+		{
+			
+			// aapt resource value: 0x7f030000
+			public const int hockeyapp_activity_expiry_info = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int hockeyapp_activity_feedback = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int hockeyapp_activity_login = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int hockeyapp_fragment_update = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int hockeyapp_view_feedback_message = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Main = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int notification_action = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int notification_action_tombstone = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int notification_media_action = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int notification_media_cancel_action = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int notification_template_big_media = 2130903050;
+			
+			// aapt resource value: 0x7f03000b
+			public const int notification_template_big_media_custom = 2130903051;
+			
+			// aapt resource value: 0x7f03000c
+			public const int notification_template_big_media_narrow = 2130903052;
+			
+			// aapt resource value: 0x7f03000d
+			public const int notification_template_big_media_narrow_custom = 2130903053;
+			
+			// aapt resource value: 0x7f03000e
+			public const int notification_template_custom_big = 2130903054;
+			
+			// aapt resource value: 0x7f03000f
+			public const int notification_template_icon_group = 2130903055;
+			
+			// aapt resource value: 0x7f030010
+			public const int notification_template_lines_media = 2130903056;
+			
+			// aapt resource value: 0x7f030011
+			public const int notification_template_media = 2130903057;
+			
+			// aapt resource value: 0x7f030012
+			public const int notification_template_media_custom = 2130903058;
+			
+			// aapt resource value: 0x7f030013
+			public const int notification_template_part_chronometer = 2130903059;
+			
+			// aapt resource value: 0x7f030014
+			public const int notification_template_part_time = 2130903060;
 			
 			static Layout()
 			{
@@ -60,8 +701,299 @@ namespace NovaPoshtaSMSNotification
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int app_name = 2130903040;
+			// aapt resource value: 0x7f040061
+			public const int app_name = 2130968673;
+			
+			// aapt resource value: 0x7f040060
+			public const int com_crashlytics_android_build_id = 2130968672;
+			
+			// aapt resource value: 0x7f040007
+			public const int common_google_play_services_unknown_issue = 2130968583;
+			
+			// aapt resource value: 0x7f040002
+			public const int default_web_client_id = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int firebase_database_url = 2130968579;
+			
+			// aapt resource value: 0x7f040000
+			public const int gcm_defaultSenderId = 2130968576;
+			
+			// aapt resource value: 0x7f040004
+			public const int google_api_key = 2130968580;
+			
+			// aapt resource value: 0x7f040001
+			public const int google_app_id = 2130968577;
+			
+			// aapt resource value: 0x7f040005
+			public const int google_crash_reporting_api_key = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int google_storage_bucket = 2130968582;
+			
+			// aapt resource value: 0x7f04000a
+			public const int hockeyapp_crash_dialog_app_name_fallback = 2130968586;
+			
+			// aapt resource value: 0x7f04000b
+			public const int hockeyapp_crash_dialog_message = 2130968587;
+			
+			// aapt resource value: 0x7f04000c
+			public const int hockeyapp_crash_dialog_negative_button = 2130968588;
+			
+			// aapt resource value: 0x7f04000d
+			public const int hockeyapp_crash_dialog_neutral_button = 2130968589;
+			
+			// aapt resource value: 0x7f04000e
+			public const int hockeyapp_crash_dialog_positive_button = 2130968590;
+			
+			// aapt resource value: 0x7f04000f
+			public const int hockeyapp_crash_dialog_title = 2130968591;
+			
+			// aapt resource value: 0x7f040010
+			public const int hockeyapp_dialog_error_message = 2130968592;
+			
+			// aapt resource value: 0x7f040011
+			public const int hockeyapp_dialog_error_title = 2130968593;
+			
+			// aapt resource value: 0x7f040012
+			public const int hockeyapp_dialog_positive_button = 2130968594;
+			
+			// aapt resource value: 0x7f040013
+			public const int hockeyapp_download_failed_dialog_message = 2130968595;
+			
+			// aapt resource value: 0x7f040014
+			public const int hockeyapp_download_failed_dialog_negative_button = 2130968596;
+			
+			// aapt resource value: 0x7f040015
+			public const int hockeyapp_download_failed_dialog_positive_button = 2130968597;
+			
+			// aapt resource value: 0x7f040016
+			public const int hockeyapp_download_failed_dialog_title = 2130968598;
+			
+			// aapt resource value: 0x7f040017
+			public const int hockeyapp_error_install_form_unknown_sources_disabled = 2130968599;
+			
+			// aapt resource value: 0x7f040018
+			public const int hockeyapp_error_no_external_storage_permission = 2130968600;
+			
+			// aapt resource value: 0x7f040019
+			public const int hockeyapp_error_no_network_message = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public const int hockeyapp_expiry_info_text = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public const int hockeyapp_expiry_info_title = 2130968603;
+			
+			// aapt resource value: 0x7f04001c
+			public const int hockeyapp_feedback_attach_file = 2130968604;
+			
+			// aapt resource value: 0x7f04001d
+			public const int hockeyapp_feedback_attach_picture = 2130968605;
+			
+			// aapt resource value: 0x7f04001e
+			public const int hockeyapp_feedback_attachment_added = 2130968606;
+			
+			// aapt resource value: 0x7f04001f
+			public const int hockeyapp_feedback_attachment_button_text = 2130968607;
+			
+			// aapt resource value: 0x7f040020
+			public const int hockeyapp_feedback_attachment_error = 2130968608;
+			
+			// aapt resource value: 0x7f040021
+			public const int hockeyapp_feedback_attachment_loading = 2130968609;
+			
+			// aapt resource value: 0x7f040022
+			public const int hockeyapp_feedback_attachment_remove_description = 2130968610;
+			
+			// aapt resource value: 0x7f040023
+			public const int hockeyapp_feedback_attachment_removed = 2130968611;
+			
+			// aapt resource value: 0x7f040024
+			public const int hockeyapp_feedback_email_hint = 2130968612;
+			
+			// aapt resource value: 0x7f040025
+			public const int hockeyapp_feedback_email_hint_required = 2130968613;
+			
+			// aapt resource value: 0x7f040026
+			public const int hockeyapp_feedback_fetching_feedback_text = 2130968614;
+			
+			// aapt resource value: 0x7f040027
+			public const int hockeyapp_feedback_last_updated_text = 2130968615;
+			
+			// aapt resource value: 0x7f040028
+			public const int hockeyapp_feedback_max_attachments_allowed = 2130968616;
+			
+			// aapt resource value: 0x7f040029
+			public const int hockeyapp_feedback_message_hint = 2130968617;
+			
+			// aapt resource value: 0x7f04002a
+			public const int hockeyapp_feedback_message_hint_required = 2130968618;
+			
+			// aapt resource value: 0x7f04002b
+			public const int hockeyapp_feedback_name_hint = 2130968619;
+			
+			// aapt resource value: 0x7f04002c
+			public const int hockeyapp_feedback_name_hint_required = 2130968620;
+			
+			// aapt resource value: 0x7f04002d
+			public const int hockeyapp_feedback_new_answer_notification_message = 2130968621;
+			
+			// aapt resource value: 0x7f04005e
+			public const int hockeyapp_feedback_notification_channel = 2130968670;
+			
+			// aapt resource value: 0x7f04002e
+			public const int hockeyapp_feedback_notification_title = 2130968622;
+			
+			// aapt resource value: 0x7f04002f
+			public const int hockeyapp_feedback_refresh_button_text = 2130968623;
+			
+			// aapt resource value: 0x7f040030
+			public const int hockeyapp_feedback_response_button_text = 2130968624;
+			
+			// aapt resource value: 0x7f040031
+			public const int hockeyapp_feedback_screenshot_fail = 2130968625;
+			
+			// aapt resource value: 0x7f040032
+			public const int hockeyapp_feedback_screenshot_notification_message = 2130968626;
+			
+			// aapt resource value: 0x7f040033
+			public const int hockeyapp_feedback_select_file = 2130968627;
+			
+			// aapt resource value: 0x7f040034
+			public const int hockeyapp_feedback_select_picture = 2130968628;
+			
+			// aapt resource value: 0x7f040035
+			public const int hockeyapp_feedback_send_button_text = 2130968629;
+			
+			// aapt resource value: 0x7f040036
+			public const int hockeyapp_feedback_send_generic_error = 2130968630;
+			
+			// aapt resource value: 0x7f040037
+			public const int hockeyapp_feedback_send_network_error = 2130968631;
+			
+			// aapt resource value: 0x7f040038
+			public const int hockeyapp_feedback_sending_feedback_text = 2130968632;
+			
+			// aapt resource value: 0x7f040039
+			public const int hockeyapp_feedback_sent_toast = 2130968633;
+			
+			// aapt resource value: 0x7f04003a
+			public const int hockeyapp_feedback_subject_hint = 2130968634;
+			
+			// aapt resource value: 0x7f04003b
+			public const int hockeyapp_feedback_subject_hint_required = 2130968635;
+			
+			// aapt resource value: 0x7f04003c
+			public const int hockeyapp_feedback_title = 2130968636;
+			
+			// aapt resource value: 0x7f04003d
+			public const int hockeyapp_feedback_validate_email_empty = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int hockeyapp_feedback_validate_email_error = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int hockeyapp_feedback_validate_name_error = 2130968639;
+			
+			// aapt resource value: 0x7f040040
+			public const int hockeyapp_feedback_validate_subject_error = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int hockeyapp_feedback_validate_text_error = 2130968641;
+			
+			// aapt resource value: 0x7f040042
+			public const int hockeyapp_login_email_hint_required = 2130968642;
+			
+			// aapt resource value: 0x7f040043
+			public const int hockeyapp_login_headline_text = 2130968643;
+			
+			// aapt resource value: 0x7f040044
+			public const int hockeyapp_login_headline_text_email_only = 2130968644;
+			
+			// aapt resource value: 0x7f040045
+			public const int hockeyapp_login_login_button_text = 2130968645;
+			
+			// aapt resource value: 0x7f040046
+			public const int hockeyapp_login_missing_credentials_toast = 2130968646;
+			
+			// aapt resource value: 0x7f040047
+			public const int hockeyapp_login_password_hint_required = 2130968647;
+			
+			// aapt resource value: 0x7f040048
+			public const int hockeyapp_paint_dialog_message = 2130968648;
+			
+			// aapt resource value: 0x7f040049
+			public const int hockeyapp_paint_dialog_negative_button = 2130968649;
+			
+			// aapt resource value: 0x7f04004a
+			public const int hockeyapp_paint_dialog_neutral_button = 2130968650;
+			
+			// aapt resource value: 0x7f04004b
+			public const int hockeyapp_paint_dialog_positive_button = 2130968651;
+			
+			// aapt resource value: 0x7f04004c
+			public const int hockeyapp_paint_indicator_toast = 2130968652;
+			
+			// aapt resource value: 0x7f04004d
+			public const int hockeyapp_paint_menu_clear = 2130968653;
+			
+			// aapt resource value: 0x7f04004e
+			public const int hockeyapp_paint_menu_save = 2130968654;
+			
+			// aapt resource value: 0x7f04004f
+			public const int hockeyapp_paint_menu_undo = 2130968655;
+			
+			// aapt resource value: 0x7f040050
+			public const int hockeyapp_update_already_installed = 2130968656;
+			
+			// aapt resource value: 0x7f040051
+			public const int hockeyapp_update_button = 2130968657;
+			
+			// aapt resource value: 0x7f040052
+			public const int hockeyapp_update_dialog_message = 2130968658;
+			
+			// aapt resource value: 0x7f040053
+			public const int hockeyapp_update_dialog_negative_button = 2130968659;
+			
+			// aapt resource value: 0x7f040054
+			public const int hockeyapp_update_dialog_positive_button = 2130968660;
+			
+			// aapt resource value: 0x7f040055
+			public const int hockeyapp_update_dialog_title = 2130968661;
+			
+			// aapt resource value: 0x7f040056
+			public const int hockeyapp_update_loading = 2130968662;
+			
+			// aapt resource value: 0x7f040057
+			public const int hockeyapp_update_mandatory_toast = 2130968663;
+			
+			// aapt resource value: 0x7f040058
+			public const int hockeyapp_update_newest_version = 2130968664;
+			
+			// aapt resource value: 0x7f040059
+			public const int hockeyapp_update_no_info = 2130968665;
+			
+			// aapt resource value: 0x7f04005a
+			public const int hockeyapp_update_restore = 2130968666;
+			
+			// aapt resource value: 0x7f04005b
+			public const int hockeyapp_update_title = 2130968667;
+			
+			// aapt resource value: 0x7f04005c
+			public const int hockeyapp_update_unknown_size = 2130968668;
+			
+			// aapt resource value: 0x7f04005d
+			public const int hockeyapp_update_version = 2130968669;
+			
+			// aapt resource value: 0x7f04005f
+			public const int hockeyapp_update_version_details_label = 2130968671;
+			
+			// aapt resource value: 0x7f040009
+			public const int library_name = 2130968585;
+			
+			// aapt resource value: 0x7f040008
+			public const int status_bar_notification_info_overflow = 2130968584;
 			
 			static String()
 			{
@@ -69,6 +1001,117 @@ namespace NovaPoshtaSMSNotification
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f07000c
+			public const int HockeyApp_ButtonStyle = 2131165196;
+			
+			// aapt resource value: 0x7f07000d
+			public const int HockeyApp_EditTextStyle = 2131165197;
+			
+			// aapt resource value: 0x7f07000e
+			public const int HockeyApp_SingleLineInputStyle = 2131165198;
+			
+			// aapt resource value: 0x7f070005
+			public const int TextAppearance_Compat_Notification = 2131165189;
+			
+			// aapt resource value: 0x7f070006
+			public const int TextAppearance_Compat_Notification_Info = 2131165190;
+			
+			// aapt resource value: 0x7f070000
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131165184;
+			
+			// aapt resource value: 0x7f07000b
+			public const int TextAppearance_Compat_Notification_Line2 = 2131165195;
+			
+			// aapt resource value: 0x7f070004
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131165188;
+			
+			// aapt resource value: 0x7f070001
+			public const int TextAppearance_Compat_Notification_Media = 2131165185;
+			
+			// aapt resource value: 0x7f070007
+			public const int TextAppearance_Compat_Notification_Time = 2131165191;
+			
+			// aapt resource value: 0x7f070002
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131165186;
+			
+			// aapt resource value: 0x7f070008
+			public const int TextAppearance_Compat_Notification_Title = 2131165192;
+			
+			// aapt resource value: 0x7f070003
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131165187;
+			
+			// aapt resource value: 0x7f070009
+			public const int Widget_Compat_NotificationActionContainer = 2131165193;
+			
+			// aapt resource value: 0x7f07000a
+			public const int Widget_Compat_NotificationActionText = 2131165194;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] FontFamily = new int[] {
+					2130771968,
+					2130771969,
+					2130771970,
+					2130771971,
+					2130771972,
+					2130771973};
+			
+			// aapt resource value: 0
+			public const int FontFamily_fontProviderAuthority = 0;
+			
+			// aapt resource value: 3
+			public const int FontFamily_fontProviderCerts = 3;
+			
+			// aapt resource value: 4
+			public const int FontFamily_fontProviderFetchStrategy = 4;
+			
+			// aapt resource value: 5
+			public const int FontFamily_fontProviderFetchTimeout = 5;
+			
+			// aapt resource value: 1
+			public const int FontFamily_fontProviderPackage = 1;
+			
+			// aapt resource value: 2
+			public const int FontFamily_fontProviderQuery = 2;
+			
+			public static int[] FontFamilyFont = new int[] {
+					2130771974,
+					2130771975,
+					2130771976};
+			
+			// aapt resource value: 1
+			public const int FontFamilyFont_font = 1;
+			
+			// aapt resource value: 0
+			public const int FontFamilyFont_fontStyle = 0;
+			
+			// aapt resource value: 2
+			public const int FontFamilyFont_fontWeight = 2;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}
